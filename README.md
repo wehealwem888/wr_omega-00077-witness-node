@@ -1,0 +1,1 @@
+# wr_omega-00077-witness-node
